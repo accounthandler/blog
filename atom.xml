@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yuanming的博客</title>
-  <subtitle>太懒，没有副标题</subtitle>
+  <subtitle>产品，分析</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.shanyuanming.com/"/>
