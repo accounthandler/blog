@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.shanyuanming.com/"/>
-  <updated>2017-02-21T07:29:47.000Z</updated>
+  <updated>2017-03-06T23:24:55.000Z</updated>
   <id>http://www.shanyuanming.com/</id>
   
   <author>
@@ -16,11 +16,60 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>产品管理中的对内沟通</title>
+    <link href="http://www.shanyuanming.com/2017/03/06/product-management-communication/"/>
+    <id>http://www.shanyuanming.com/2017/03/06/product-management-communication/</id>
+    <published>2017-03-06T20:41:00.000Z</published>
+    <updated>2017-03-06T23:24:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="/images/product-management-communication.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>产品经理的一个重要职责就是通过沟通来组织和带领团队共同实现企业目标。这里主要分享的是在企业内部沟通的一些最佳实践。分别从愿景，用户，和项目管理的角度展开。</p>
+<h2 id="愿景"><a href="#愿景" class="headerlink" title="愿景"></a>愿景</h2><p>愿景是为什么做一个产品的核心原因，是团队往一个统一方向前进的核心驱动力。愿景的沟通是否做好，可以用这个简单方法来测试：开会时随机问下公司的愿景是什么，看大家是能不假思索地写出完全一致的愿景，还是要想一想然后描述出几个好像类似，但其实各不相同的版本？如果是后者，那产品经理在沟通上就需要尽快改进了。</p>
+<a id="more"></a>
+<p>首先如果愿景还没有完全确定（比如初创企业，大型企业的新业务线），只是大致讨论过，或者过于冗长，那么需要先制定一个明确的，简要的愿景描述。几句话，最好是一句话，概括出目标用户，能提供的价值，和今后想达到的状态。愿景是共同协作的基石，宏观战略上可以有不同的看法，具体产品特性也可以各抒己见。但如果愿景不一样，那就是无本之木，没必要一起工作了。所以，先达成明确确定的愿景描述。</p>
+<p>有了愿景还远远不够。要真正发挥作用，还有件重要的事要做，叫：重复，重复，再重复。各种场合，各种时机：把愿景贴到墙上去，让人一进门就看见；写到文档中去，第一行就看见；挂到会议室白板上，一开会就看见。人是健忘的动物，特别是快节奏高压力下，经常被每天的工作内容消耗掉了大部分精力，在取舍各种细节时更多考虑的是眼前要完成的任务，而不是长远为之奋斗的目标。这就需要产品经理能够在一对一交流，群体会议，电子邮件中，不停提醒团队共同的使命是什么。特别是意见不一致的时候，特别是被短期 KPI 增长诱惑的时候。这种重复要做到什么程度呢？夸张点（其实也不夸张），最好是团队每天晚上做梦都在想，自己正在做的东西怎么能更好地帮助实现愿景。</p>
+<h2 id="用户"><a href="#用户" class="headerlink" title="用户"></a>用户</h2><p>产品是否能带来价值，用户都会用脚投票。产品经理除了要能有强大的同理心，理解用户的需求外。还需要把这种需求用合适的方法，向企业内部沟通。通常说产品是衔接业务和技术的桥梁，在业务面前代表技术，在技术面前代表业务。但更重要的是，在所有部门面前，产品都要能很好的代表用户，说出用户想表达却表达不出来的东西。</p>
+<p>一般这种沟通，逻辑推理、统计数据、具体实例组合在一起使用效果比较好。不过如果时间有限，不能面面俱到，具体例子的说服力在实践中会更强些。一是具体例子通常包含上下文情景，更加“看得到，摸得着”，相比抽象的逻辑推导，更容易让对方产生感性认知，体会到用户的感受，如果产品经理在沟通中时不时被要求“说人话”，可尝试多用具体例子来阐述观点和需求。二是实例相对来说，也比较好获取，每个样本都是一个例子。虽然个案究竟有多少代表性是个疑问，但如果能连续抛出三个具体例子反映一致痛点，获得支持的概率就比较大。市场的快速变化决定了产品没有足够资源和时间来做全面分析后才开始行动，这也是为什么快速试错会成为主流。即使是盲人摸象，只要摸的够快，足够灵活，最后生存和成长的机会在现今的时代会更好些。</p>
+<p>将用户的需求和痛点向内沟通时，预期的设置非常重要，特别是负面影响的预期。高速迭代时，大家的注意力都在做了什么，可以解决什么问题，却忽略了随之而来的代价。比如产品界面提供傻瓜式的操作方便了入门用户，却不能满足高级用户；如改成自定义提供自由度，入门用户又会望而却步；若两种都支持，则必然增加界面复杂度和转换逻辑。每个改变都有其优势和代价，特别是对现有产品或特性的迭代，很可能带来一部分当前用户的抱怨。合理的设置预期，说明我们会解决什么，不解决什么，会产生什么新问题，不但能让团队理解这是一个清晰的权衡抉择，而非考虑不周，也能让团队提前做好心理准备和应对措施。</p>
+<h2 id="项目管理"><a href="#项目管理" class="headerlink" title="项目管理"></a>项目管理</h2><p>取决于公司的规模，大公司有时会让专人来负责项目管理。但即便如此，产品经理作为产品成功或失败的最终负责人，仍必须在项目管理上投入不少精力。而没有专属的项目经理时，产品经理主要的时间都会投入在这，覆盖整个开发，推广，和迭代过程。</p>
+<p>项目管理中的沟通更接近运营层面，所以也比较容易标准化，适合采用一定流程，比如典型的敏捷开发。过程中各种会议不可避免，这里强烈推荐无论什么会，在开始前先把这次会议的目标，需要的时间和预期明确陈述一遍，哪怕之前的邮件中已经写过。这样做能帮助参会人员从会前别的工作中脱离出来，把精神集中在当前议题，让每个人清晰有意识地决定要么作出有意义的贡献和思考，要么离开会议室，把时间投入到回报更高的地方去。而会议结束前，建议产品经理把达成的关键点向大家快速总结一遍：谁，做什么，预估几月几号能出结果。一来确认是否有异议，二来清晰化每个人要采取的行动。会议结束后把结论发邮件作备份。</p>
+<p>除了流程外，项目管理中细节众多，可以采用工具促进沟通。比如 phabricator，jira，teambition，trello 等等都不错。只要能让团队成员方便地看到进度，反馈问题，更新状态就可以。另外，定期的总结邮件能帮助大家认识到现状离预期还有多少距离，以及下一步的方向和行动，思考手上工作和公司战略的联系。</p>
+<p><br><br>每个产品经理都可以也必须不断提高自己的沟通能力，针对不同的人、不同背景、不同场合，定制化说什么、怎么说，从而有效带领团队往共同的目标前进。希望这些最佳实践能对大家有所帮助，也欢迎交流不同想法。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;/images/product-management-communication.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
+&lt;p&gt;产品经理的一个重要职责就是通过沟通来组织和带领团队共同实现企业目标。这里主要分享的是在企业内部沟通的一些最佳实践。分别从愿景，用户，和项目管理的角度展开。&lt;/p&gt;
+&lt;h2 id=&quot;愿景&quot;&gt;&lt;a href=&quot;#愿景&quot; class=&quot;headerlink&quot; title=&quot;愿景&quot;&gt;&lt;/a&gt;愿景&lt;/h2&gt;&lt;p&gt;愿景是为什么做一个产品的核心原因，是团队往一个统一方向前进的核心驱动力。愿景的沟通是否做好，可以用这个简单方法来测试：开会时随机问下公司的愿景是什么，看大家是能不假思索地写出完全一致的愿景，还是要想一想然后描述出几个好像类似，但其实各不相同的版本？如果是后者，那产品经理在沟通上就需要尽快改进了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="product" scheme="http://www.shanyuanming.com/categories/product/"/>
+    
+    
+      <category term="product" scheme="http://www.shanyuanming.com/tags/product/"/>
+    
+  </entry>
+  
+  <entry>
     <title>产品决策：数据驱动 VS 数据知情</title>
     <link href="http://www.shanyuanming.com/2017/02/20/product-decision-data-driven-data-informed/"/>
     <id>http://www.shanyuanming.com/2017/02/20/product-decision-data-driven-data-informed/</id>
-    <published>2017-02-21T05:46:43.000Z</published>
-    <updated>2017-02-21T07:29:47.000Z</updated>
+    <published>2017-02-21T05:46:00.000Z</published>
+    <updated>2017-03-06T23:25:38.000Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -63,6 +112,12 @@
     
     </summary>
     
+      <category term="product" scheme="http://www.shanyuanming.com/categories/product/"/>
+    
+    
+      <category term="product" scheme="http://www.shanyuanming.com/tags/product/"/>
+    
+      <category term="data" scheme="http://www.shanyuanming.com/tags/data/"/>
     
   </entry>
   
